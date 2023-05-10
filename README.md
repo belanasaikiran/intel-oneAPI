@@ -1,14 +1,16 @@
 # intel-oneAPI
 
-#### Team Name -
-#### Problem Statement - 
-#### Team Leader Email -
+#### Team Name - Lightspeed
+#### Problem Statement - Lung cancer prediction using Convolutional Neural Networks (CNN)​
+#### Team Leader Email - saikiran@lightspeedphotonics.com
 
 ## A Brief of the Prototype:
   This section must include UML Daigrms and prototype description
   
 ## Tech Stack: 
-   List Down all technologies used to Build the prototype **Clearly mentioning Intel® AI Analytics Toolkits, it's libraries and the SYCL/DCP++ Libraries used**
+   Intel’s OneAPI Jupyter Lab
+   Python
+   Intel GPUs (Devcloud)
    
 ## Step-by-Step Code Execution Instructions:
   This Section must contain set of instructions required to clone and run the prototype, so that it can be tested and deeply analysed
